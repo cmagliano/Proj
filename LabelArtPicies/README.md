@@ -21,7 +21,7 @@ This project tackles the issue of artist identification from paintings. Our aim 
 ![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/RENOIR_1.JPG)
 ![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/RENOIR_2.JPG)
 ![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/BOTTICELLI_1.JPG)
-
+![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/BOTTICELLI_2.JPG)
 
 ## Results 
 
