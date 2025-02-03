@@ -17,7 +17,7 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ## Dataset Sample
 
-![Dateset][https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/MONET_1.JPG)
+![Dateset(ttps://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/MONET_1.JPG)
 ![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/RENOIR_1.JPG)
 ## Results 
 
