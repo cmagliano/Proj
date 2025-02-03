@@ -17,8 +17,7 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ## Dataset Sample
 
-![Dateset](https://i.ibb.co/kD8ZGqb/Image-Batch.png)
-
+![Dateset](https://github.com/cmagliano/Proj/edit/main/LabelArtPicies/data/Monet_1.png)
 ## Results 
 
 ![ResNet-34](https://i.ibb.co/jWCP9wW/Screen-Shot-2019-12-06-at-3-21-55-PM.png)
@@ -27,7 +26,7 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ## Confusion Matrix
 
-![Matrix](https://i.ibb.co/thCYc9b/Screen-Shot-2019-12-06-at-3-22-21-PM.png)
+![Matrix](https://[i.ibb.co/thCYc9b/Screen-Shot-2019-12-06-at-3-22-21-PM]
 
 ## Top Losses ResNet-152
 
