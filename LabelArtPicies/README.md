@@ -17,25 +17,15 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ## Dataset Sample
 
-![Dateset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/MONET_1.JPG)
-![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/RENOIR_1.JPG)
-![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/RENOIR_2.JPG)
-![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/BOTTICELLI_1.JPG)
-![Dataset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/BOTTICELLI_2.JPG)
-
-## Results 
-
-![ResNet-34](https://i.ibb.co/jWCP9wW/Screen-Shot-2019-12-06-at-3-21-55-PM.png)
-![ResNet-50](https://i.ibb.co/2FW0k3Z/Screen-Shot-2019-12-06-at-3-22-02-PM.png)
-![ResNet-152](https://i.ibb.co/jgn8m9V/Screen-Shot-2019-12-06-at-3-22-08-PM.png)
+![Dateset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Dataset.jpg)
 
 ## Confusion Matrix
 
-![Matrix](https://[i.ibb.co/thCYc9b/Screen-Shot-2019-12-06-at-3-22-21-PM]
+![Matrix](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Confusion_Matrix.jpg)
 
-## Top Losses ResNet-152
+## Results
 
-![TopLosses](https://i.ibb.co/d5DgMBk/Top-losses-Res-Net152.png)
+![TopLosses](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Result13.jpg)
 
 
 
