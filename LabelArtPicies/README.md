@@ -17,7 +17,7 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ## Dataset Sample
 
-![Dateset](https://drive.google.com/drive/my-drive/IArtpicies/ImageTest/*.png)
+![Dateset](https://github.com/cmagliano/Proj/tree/main/LabelArtPicies/Data)
 
 ## Results 
 
