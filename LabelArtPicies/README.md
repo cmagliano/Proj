@@ -23,6 +23,8 @@ This project tackles the issue of artist identification from paintings. Our aim 
 ## First Cycle
 ![Resnet152_1](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Resnet152_1.jpg)
 ![Resnet152_2](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Resnet152_2.jpg)
+
+## Last Cycle
 ![Resnet152_3](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Resnet152_3.jpg)
 ![Resnet152_4](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Resnet152_4.jpg)
 
