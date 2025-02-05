@@ -19,6 +19,11 @@ This project tackles the issue of artist identification from paintings. Our aim 
 
 ![Dateset](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Dataset.jpg)
 
+## Results of CNN Restnet152
+## First Cycle
+![Results](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Restnet152_1.jpg)
+
+
 ## Confusion Matrix
 
 ![Matrix](https://github.com/cmagliano/Proj/blob/main/LabelArtPicies/Data/Confusion_Matrix.jpg)
